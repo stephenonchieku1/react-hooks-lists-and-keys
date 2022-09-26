@@ -37,5 +37,17 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "mocha": "^8.2.1"
-  }
+  },
+  "description": "## Learning Goals",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenonchieku1/react-hooks-lists-and-keys.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephenonchieku1/react-hooks-lists-and-keys/issues"
+  },
+  "homepage": "https://github.com/stephenonchieku1/react-hooks-lists-and-keys#readme"
 }
